@@ -1,0 +1,64 @@
+
+body{
+    background-image: url(scotland.jpg);
+    background-size: cover; 
+}
+
+#cen{
+    padding-top: 150px;
+}
+
+span{
+    color: rgb(99, 93, 97);
+}
+
+.h2{
+     color: rgb(100, 0, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.h1{
+    color: white;
+}
+
+#p1{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#inp_1{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 3px;
+    background-color:rgb(131, 21, 241);
+    color: antiquewhite;
+
+}
+
+#inp_2{
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(7, 43, 90);
+    color:white;
+}
+
+#div3{
+    margin-left: 453px;
+    margin-top: -453px;
+    width: 450px;
+    
+}
+
+#div4{
+    margin-left: 910px;
+    margin-top: -453px;
+    width: 450px;
+    
+}
+
+img{
+    border-radius: 20px;
+}
